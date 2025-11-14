@@ -55,7 +55,7 @@ I built this during my B.Tech final year/minor project to learn embedded systems
 ## 5. System Architecture
 
 ```
-[ESP32-CAM (optional)]      [Raspberry Pi Zero W]
+[ESP32-CAM ]      [Raspberry Pi Zero W]
      |                           |
  image capture -> MQTT/HTTP -> local inference (TFLite) -> UI / Logger
                                     |
