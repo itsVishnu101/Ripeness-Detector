@@ -240,12 +240,15 @@ mqtt:
 
 ##  Connect with me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<p align="left" style="display: flex; gap: 10px;">
+
+  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
-  <a href="mailto:ui22ec86@iiitsurat.ac.in">
-    <img src="https://img.shields.io/badge/-Gmail-DD4B39?style=for-the-badge&logo=gmail&logoColor=white">
+
+  <a href="mailto:ui22ec86@iiitsurat.ac.in" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
 </p>
+
