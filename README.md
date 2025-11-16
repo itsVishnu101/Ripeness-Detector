@@ -240,15 +240,13 @@ mqtt:
 
 ##  Connect with me:
 
-<p align="left" style="display: flex; gap: 10px;">
-
-  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:ui22ec86@iiitsurat.ac.in" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-
-</p>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56">
+  <defs>
+    <linearGradient id="rg" x1="0" x2="1"><stop offset="0" stop-color="#ff6a4a"/><stop offset="1" stop-color="#d14836"/></linearGradient>
+  </defs>
+  <rect rx="14" width="260" height="56" fill="url(#rg)"/>
+  <g transform="translate(18,8)" fill="#fff" font-family="Arial, sans-serif" font-weight="700">
+    <rect x="0" y="8" width="40" height="40" rx="6" fill="#ffffff22"/>
+    <text x="56" y="34" font-size="20" letter-spacing="2">GMAIL</text>
+  </g>
+</svg>
