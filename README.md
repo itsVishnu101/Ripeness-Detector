@@ -238,3 +238,16 @@ mqtt:
 * Train fruit-specific models.
 * Use **TinyML**
 
+---
+
+##  Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:ui22ec86@iiitsurat.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
