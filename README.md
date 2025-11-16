@@ -240,13 +240,12 @@ mqtt:
 
 ##  Connect with me:
 
-<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56">
-  <defs>
-    <linearGradient id="rg" x1="0" x2="1"><stop offset="0" stop-color="#ff6a4a"/><stop offset="1" stop-color="#d14836"/></linearGradient>
-  </defs>
-  <rect rx="14" width="260" height="56" fill="url(#rg)"/>
-  <g transform="translate(18,8)" fill="#fff" font-family="Arial, sans-serif" font-weight="700">
-    <rect x="0" y="8" width="40" height="40" rx="6" fill="#ffffff22"/>
-    <text x="56" y="34" font-size="20" letter-spacing="2">GMAIL</text>
-  </g>
-</svg>
+<p align="left" style="display:flex; gap:12px; align-items:center;">
+  <a href="https://www.theverge.com/2020/10/6/21503835/gmail-new-logo-design-google-workspace-features" target="_blank" style="text-decoration:none;">
+    <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo-2011.png" alt="LinkedIn Logo" height="48"/>
+  </a>
+
+  <a href="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo-2011.png" target="_blank" style="text-decoration:none;">
+    <img src="https://www.theverge.com/2020/10/6/21503835/gmail-new-logo-design-google-workspace-features" alt="Gmail Article" height="48"/>
+  </a>
+</p>
