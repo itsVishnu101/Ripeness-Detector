@@ -243,11 +243,11 @@ mqtt:
 <p align="left" style="display: flex; gap: 10px;">
 
   <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:ui22ec86@iiitsurat.ac.in" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 
 </p>
