@@ -238,14 +238,9 @@ mqtt:
 * Train fruit-specific models.
 * Use **TinyML**
 
-##  Connect with me:
+##  📫Connect with me:
 
-<p align="left" style="display:flex; gap:12px; align-items:center;">
-  <a href="https://www.theverge.com/2020/10/6/21503835/gmail-new-logo-design-google-workspace-features" target="_blank" style="text-decoration:none;">
-    <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo-2011.png" alt="LinkedIn Logo" height="48"/>
-  </a>
-
-  <a href="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo-2011.png" target="_blank" style="text-decoration:none;">
-    <img src="https://www.theverge.com/2020/10/6/21503835/gmail-new-logo-design-google-workspace-features" alt="Gmail Article" height="48"/>
-  </a>
-</p>
+<p align="left">
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
