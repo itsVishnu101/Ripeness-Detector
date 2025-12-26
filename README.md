@@ -1,12 +1,20 @@
-## 1. Project Overview
+## 📌 Project Overview
 
 This repository contains code, documentation, and configuration for an **IoT Ripeness Detector** — an embedded system that inspects fruit/vegetable samples and predicts ripeness using sensor readings and a lightweight ML model. The device can be built using a **ESP8266 microcontroller**  depending on cost and compute needs.
 
 I built this during my B.Tech final year/minor project to learn embedded systems, computer vision, and edge ML. The goal was to provide farmers and small vendors an accessible device to make harvesting and selling decisions more data-driven.
 
 ---
+## 📄 Project Report
 
-## 2. What I Built (Features)
+The complete project report containing system overview, architecture, implementation details and results is  here:
+
+🔗 **[IoT-Based Ripeness Detection for Vertical Farming – Project Report (PDF)](https://drive.google.com/file/d/1z2VIhk07d0sxIXvT7gKLdUFoxTHR1r8Z/view?usp=drive_link)**
+
+
+---
+
+## ✨ What I Built (Features)
 
 * Real-time ripeness classification (Unripe / Ripe / Overripe)
 * Two hardware flavours supported:
@@ -18,7 +26,7 @@ I built this during my B.Tech final year/minor project to learn embedded systems
 
 ---
 
-## 3. Hardware & Components (Specific)
+## 🧰 Hardware & Components (Specific)
 
 ### **Primary Tested Setup**
 
@@ -27,12 +35,9 @@ I built this during my B.Tech final year/minor project to learn embedded systems
 * Breadboard and jumper wires 
 * Smartphone for image capture and upload
 * Laptop / PC running the FastAPI backend server
-
-
-
 ---
 
-## 4. Software Stack
+## 💻 Software Stack
 
 * Backend: Python, FastAPI, OpenCV, NumPy
 * Frontend: HTML, CSS, JavaScript
@@ -41,7 +46,7 @@ I built this during my B.Tech final year/minor project to learn embedded systems
 
 ---
 
-## 5. System Architecture
+## 🏗️ System Architecture
 
 ```
 [ Smartphone / Browser ]
@@ -62,7 +67,7 @@ I built this during my B.Tech final year/minor project to learn embedded systems
 The architecture demonstrates a complete IoT pipeline involving sensing, computation, communication, and actuation.
 ---
 
-## 6. Wiring & Connections (Pi Zero W + ESP32-CAM)
+## ⚙️ Wiring & Connections (Pi Zero W + ESP32-CAM)
 
 * ESP8266 Connections
 * VCC → 3.3V
@@ -72,7 +77,7 @@ The architecture demonstrates a complete IoT pipeline involving sensing, computa
 
 ---
 
-## 7. Future Improvements
+## 🔮 Future Improvements
 
 * Integration of machine-learning models for higher accuracy
 * Multi-sensor fusion (temperature, moisture, humidity)
@@ -80,7 +85,7 @@ The architecture demonstrates a complete IoT pipeline involving sensing, computa
 * Mobile application support
 * Automatic multi-fruit detection
 
-##  📫Connect with me:
+## 📫 Connect with me:
 
 <p align="left">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
