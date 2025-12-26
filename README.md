@@ -12,7 +12,7 @@ The complete project report containing system overview, architecture, implementa
 
 
 
-## ✨ What I Built (Features)
+## ✨ What I Built 
 
 * Real-time ripeness classification (Unripe / Ripe / Overripe)
 * ESP8266-based Wi-Fi communication and physical LED indication
