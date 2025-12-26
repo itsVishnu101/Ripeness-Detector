@@ -15,14 +15,11 @@ The complete project report containing system overview, architecture, implementa
 ## ✨ What I Built (Features)
 
 * Real-time ripeness classification (Unripe / Ripe / Overripe)
-* Two hardware flavours supported:
-
-  * ESP8266-based Wi-Fi communication and physical LED indication
-  * Web interface for image upload, result display, and scan history 
+* ESP8266-based Wi-Fi communication and physical LED indication
+* Web interface for image upload, result display, and scan history 
 * FastAPI backend for real-time image analysis
 
 
----
 
 ## 🧰 Hardware & Components (Specific)
 
