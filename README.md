@@ -4,7 +4,6 @@ This repository contains code, documentation, and configuration for an **IoT Rip
 
 I built this during my B.Tech final year/minor project to learn embedded systems, computer vision, and edge ML. The goal was to provide farmers and small vendors an accessible device to make harvesting and selling decisions more data-driven.
 
----
 ## 📄 Project Report
 
 The complete project report containing system overview, architecture, implementation details and results is  here:
@@ -43,7 +42,6 @@ The complete project report containing system overview, architecture, implementa
 * Firmware: Arduino C++ (ESP8266)
 * Communication: HTTP and JSON over Wi-Fi
 
----
 
 ## 🏗️ System Architecture
 
@@ -64,7 +62,7 @@ The complete project report containing system overview, architecture, implementa
 ```
 
 The architecture demonstrates a complete IoT pipeline involving sensing, computation, communication, and actuation.
----
+
 
 ## ⚙️ Wiring & Connections (Pi Zero W + ESP32-CAM)
 
