@@ -21,7 +21,7 @@ The complete project report containing system overview, architecture, implementa
 
 
 
-## 🧰 Hardware & Components (Specific)
+## 🧰 Hardware & Components 
 
 ### **Primary Tested Setup**
 
@@ -30,7 +30,7 @@ The complete project report containing system overview, architecture, implementa
 * Breadboard and jumper wires 
 * Smartphone for image capture and upload
 * Laptop / PC running the FastAPI backend server
----
+
 
 ## 💻 Software Stack
 
