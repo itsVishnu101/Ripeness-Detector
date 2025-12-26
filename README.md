@@ -12,7 +12,6 @@ The complete project report containing system overview, architecture, implementa
 🔗 **[IoT-Based Ripeness Detection for Vertical Farming – Project Report (PDF)](https://drive.google.com/file/d/1z2VIhk07d0sxIXvT7gKLdUFoxTHR1r8Z/view?usp=drive_link)**
 
 
----
 
 ## ✨ What I Built (Features)
 
@@ -75,7 +74,6 @@ The architecture demonstrates a complete IoT pipeline involving sensing, computa
 * Red LED → GPIO pin (with resistor)
 * Green LED → GPIO pin (with resistor)
 
----
 
 ## 🔮 Future Improvements
 
